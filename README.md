@@ -24,8 +24,8 @@ What I hope to learn over the next four years:
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: *(add your LinkedIn URL here after setting it up)*
-- 📧 College Email: *(your college email)*
+- 🔗 LinkedIn: https://www.linkedin.com/in/harsimran-singh-gurudatta-66aa052a4?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 College Email: harsimran.25bai10007@vitbhopal.ac.in
 
 ---
 
