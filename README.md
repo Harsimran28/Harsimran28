@@ -1,47 +1,32 @@
-# Hi there, I'm Harsimran 👋  
-### Aspiring AI/ML Developer | CSE @ VIT Bhopal | Freelancer-in-Progress
+# Hi there, I'm Harsimran Singh Gurudatta 👋
 
-🚀 I’m currently on a 30-day challenge to level up in:
-- Python 🐍 | DSA | Git & GitHub
-- Machine Learning & Data Science 🤖
-- Freelancing and Personal Branding 💼
-- Creating content on YouTube 🎙️
-
-🧠 I love blending tech with spiritual growth (2hr daily path ✨)
-
-## 🔧 Tech Stack I'm Learning
-- Python, NumPy, Pandas
-- Git & GitHub
-- Jupyter Notebook, VS Code
-- HTML, CSS (coming soon)
-
-## 📈 Current Goals
-- Build my GitHub portfolio with real-world projects
-- Start freelancing with Python/automation gigs
-- Launch my YouTube channel 📺
-
-## 🌱 Connect with Me
-- 🌐 Website: (coming soon)
-- 📩 Email: your-email@gmail.com
-- 🎥 YouTube: youtube.com/@yourchannel (coming soon)
-- 💼 Freelance: Fiverr/Upwork (coming soon)
+🎓 B.Tech CSE (Artificial Intelligence) | First Year  
+🏫 VIT Bhopal University | Reg No: 25BAI10007  
+📅 Expected Graduation: 2029  
 
 ---
 
-⚡ Fun fact: I code, I meditate, I hustle 💻🧘🚀
+## About Me
+I'm a first-year CSE (AI) student at VIT Bhopal University, just beginning my journey into technology and programming. I'm curious about artificial intelligence, machine learning, and how technology can solve real-world problems.
 
+What I hope to learn over the next four years:
+- Python programming and data structures
+- Machine learning and AI fundamentals
+- How to build real projects that matter
 
-<!--
-**Harsimran28/Harsimran28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Currently Learning
+- Python
+- Git & GitHub
+- Digital Literacy and Online Safety
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect With Me
+- 🔗 LinkedIn: *(add your LinkedIn URL here after setting it up)*
+- 📧 College Email: *(your college email)*
+
+---
+
+*"Every expert was once a beginner."*
